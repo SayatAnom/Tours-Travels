@@ -1,2 +1,2 @@
 # Tours-Travels
-Tours &amp; Travels refresh your mind 
+https://sayatanom.github.io/Tours-Travels/
